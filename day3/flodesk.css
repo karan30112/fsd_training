@@ -1,0 +1,31 @@
+.box{
+    margin-left: 450px;
+    
+    width: 310px;
+}
+input{
+    margin-top: 20px;
+    height: 30px;
+    width: 230px;
+    border-radius: 10px;
+    border: 1;
+
+}
+button{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 130px;
+    margin-left: 50px;
+    border-radius: 10px;
+    border: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h5{
+    display: flex;
+    justify-content: center;
+}   

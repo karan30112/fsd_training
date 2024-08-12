@@ -1,0 +1,31 @@
+.mid{
+    padding:30px;
+    margin: 10px 100px 20px 150px;
+    background-color: rgb(125, 195, 125);
+    border: 10px;
+    border-radius: 20px;
+    height: 550px;
+    width: 800px;
+}
+
+
+.container{
+    padding: 10px;
+    margin:80px 100px 50px 50px;
+    background-color: rgb(125, 195, 125);
+    height: 00px;
+    width: 283px;
+    border: 10px;
+
+}
+.mid button{
+    border-radius: 20px;
+    border: 0px;
+    font-weight: bold;
+    height: 55px;
+    width: 220px;
+}
+
+.mid h1{
+    margin: 5px;
+}
